@@ -22,3 +22,8 @@ RTSS/MSI Afterburner users (maybe it helps with other apps that hook into beamng
 
 **SOURCE topic:**  
 https://www.reddit.com/r/BeamNG/comments/1vcvghu/rtss_and_vulkan_renderer_crash_fix/  
+
+# **how to install**  
+
+  1. easiest way is run cmd as admin and run **"powershell X:\locationofscript.ps1"**  
+  2. follow instructions as outlined during execution  
